@@ -1,4 +1,4 @@
-# Implementation of a Traditional Genetic Algorithm, the Hybrid-Taguchi Genetic Algorithm and the Cooperative Coevolutive Hybrid-Taguchi Genetic Algorithm
+# Analysis Implementation and Comparatives of a Traditional Genetic Algorithm, the Hybrid-Taguchi Genetic Algorithm and the Cooperative Coevolutive Hybrid-Taguchi Genetic Algorithm
 
 ## References
 - [TGA](http://eisc.univalle.edu.co/~angarcia/ce/ce_clases/ce-02_GA.pdf)
